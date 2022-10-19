@@ -2,8 +2,9 @@
 .DS_Store
 Thumbs.db
 
-# plots
-plots/
+# plots created by code
+plots/*.png
+plots/*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
