@@ -20,6 +20,40 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3427"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,20,0,1 @ F,0,0,1,0,20,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,20,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2101"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,15,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,20,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <marker
        style="overflow:visible;"
        id="marker31080"
@@ -523,6 +557,32 @@
          style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1.0pt;marker-start:none;fill:#ff0000"
          transform="scale(0.4) rotate(180) translate(10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend6473"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       style="overflow:visible;"
+       id="Arrow1Mend6473">
+      <path
+         id="path19866"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1.0pt;marker-start:none;fill:#008000"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend64739855"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       style="overflow:visible;"
+       id="Arrow1Mend64739855">
+      <path
+         id="path20338"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#008000;stroke-width:1.0pt;marker-start:none;fill:#008000"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -531,9 +591,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.15"
-     inkscape:cx="300.43478"
-     inkscape:cy="222.6087"
+     inkscape:zoom="1.4088798"
+     inkscape:cx="365.89352"
+     inkscape:cy="247.71453"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -563,35 +623,43 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:0.25;fill:#008000;stroke:none;stroke-width:1.01081px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,65 h 530 a 20,20 45 0 1 20,20 v 133.69565 a 20,20 135 0 1 -20,20 l -140,0 a 20,20 135 0 0 -20,20 V 280 a 20,20 135 0 1 -20,20 H 290 a 20,20 45 0 1 -20,-20 v -21.30435 a 20,20 45 0 0 -20,-20 H 100 a 20,20 45 0 1 -20,-20 V 85 a 20,20 135 0 1 20,-20 z"
+       style="fill:#008000;stroke:none;stroke-width:1.02353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.125"
+       d="M 270,245 V 175 A 20,20 45 0 0 250,155 H 100 A 20,20 45 0 1 80,135 v 90 a 20,20 45 0 0 20,20 z"
+       id="path3345"
+       sodipodi:nodetypes="cccccc"
+       inkscape:original-d="M 270,245 V 155 H 80 v -20 110 z"
+       inkscape:path-effect="#path-effect3427" />
+    <path
+       style="opacity:0.25;fill:#008000;stroke:none;stroke-width:1.03232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100,65 h 530 a 20,20 45 0 1 20,20 l 0,140 a 20,20 135 0 1 -20,20 H 490 a 20,20 135 0 0 -20,20 v 25.10638 a 20,20 135 0 1 -20,20 l -160,0 a 20,20 45 0 1 -20,-20 V 175 A 20,20 45 0 0 250,155 H 100 A 20,20 45 0 1 80,135 V 85 a 20,20 135 0 1 20,-20 z"
        id="path4806"
        inkscape:path-effect="#path-effect4888"
-       inkscape:original-d="M 80,65 H 650 V 238.69565 H 470 V 300 H 270 V 238.69565 H 80 Z" />
+       inkscape:original-d="M 80,65 H 650 V 245 H 470 v 65.10638 H 270 V 155 H 80 Z"
+       sodipodi:nodetypes="ccccccccc" />
     <rect
-       style="opacity:0.25;fill:#800080;stroke:#800000;stroke-width:1;stroke-dasharray:1, 2"
+       style="opacity:0.25;fill:#800080;stroke:#800000;stroke-width:1.03391;stroke-dasharray:1.03391, 2.06782"
        id="rect49499"
        width="200"
-       height="145"
+       height="155"
        x="270"
        y="155"
-       ry="15.000001" />
+       ry="16.034483" />
     <rect
        style="opacity:0.262976;fill:#ff6600;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4771"
        width="180"
        height="140"
        x="280"
-       y="230"
+       y="240"
        ry="11.956521" />
     <rect
-       style="opacity:0.152249;fill:#0000ff;stroke:none;stroke-width:1.5248;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:0.152249;fill:#0000ff;stroke:none;stroke-width:1.5492;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4761"
        width="550"
-       height="155"
+       height="160"
        x="90"
        y="75"
-       ry="12.916666" />
+       ry="13.333333" />
     <rect
        style="opacity:0.262976;fill:#ffff00;stroke:none;stroke-width:1.55662;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4767"
@@ -614,7 +682,7 @@
        width="150"
        height="49.999996"
        x="295"
-       y="380"
+       y="390.63782"
        ry="12.499999" />
     <text
        xml:space="preserve"
@@ -725,63 +793,63 @@
          id="tspan2824-0-5"
          style="font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial">Global mean</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2816-3-4-9-4"
        width="150"
        height="49.999996"
        x="295"
-       y="239.36218"
+       y="250"
        ry="12.499999"
        inkscape:connector-avoid="true" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="370.41309"
-       y="253.35736"
+       y="263.99518"
        id="text2820-9-4-0"><tspan
          sodipodi:role="line"
          id="tspan2822-1-1-9"
          x="370.41309"
-         y="253.35736"
+         y="263.99518"
          style="font-size:15px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial">Regional climate</tspan><tspan
          sodipodi:role="line"
          x="370.41309"
-         y="269.40509"
+         y="280.04291"
          id="tspan2824-0-5-3"
          style="font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial">temperature, precip, etc.</tspan><tspan
          sodipodi:role="line"
          x="370.41309"
-         y="284.40509"
+         y="295.04291"
          style="font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan3024">mean, extremes</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2816-3-4-9-4-7"
        width="150"
        height="49.999996"
        x="295"
-       y="309.36218"
+       y="320"
        ry="12.499999"
        inkscape:connector-avoid="true" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="370.2959"
-       y="323.03583"
+       y="333.67365"
        id="text2820-9-4-0-7"><tspan
          sodipodi:role="line"
          id="tspan2822-1-1-9-4"
          x="370.2959"
-         y="323.03583"
+         y="333.67365"
          style="font-size:15px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial">Climate impacts</tspan><tspan
          sodipodi:role="line"
          x="370.2959"
-         y="339.08356"
+         y="349.72137"
          style="font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan3024-0">crops, health, fisheries,</tspan><tspan
          sodipodi:role="line"
          x="370.2959"
-         y="354.08356"
+         y="364.72137"
          style="font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan3062">biodiversity, etc.</tspan></text>
     <rect
@@ -812,16 +880,16 @@
        xml:space="preserve"
        style="font-size:15px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
        x="369.729"
-       y="400.7002"
+       y="411.33801"
        id="text7739"><tspan
          sodipodi:role="line"
          x="369.729"
-         y="400.7002"
+         y="411.33801"
          id="tspan7741"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Socioeconomic</tspan><tspan
          sodipodi:role="line"
          x="369.729"
-         y="420.04318"
+         y="430.681"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
          id="tspan26359">scenarios</tspan></text>
     <path
@@ -880,7 +948,7 @@
        inkscape:connection-end="#rect2816-4-9" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 370,215 v 24.36218"
+       d="m 370,215 v 35"
        id="path28837"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -888,7 +956,7 @@
        inkscape:connection-end="#rect2816-3-4-9-4" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 370,289.36218 v 20"
+       d="m 370,300 v 20"
        id="path28839"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -896,7 +964,7 @@
        inkscape:connection-end="#rect2816-3-4-9-4-7" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="M 445,405 H 555 V 215"
+       d="M 445,415.63782 H 555 V 215"
        id="path28845"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="0"
@@ -904,7 +972,7 @@
        inkscape:connection-end="#rect2816-4" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="M 295,405 H 185 V 215"
+       d="M 295,415.63782 H 185 V 215"
        id="path30303"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="0"
@@ -913,13 +981,13 @@
     <text
        xml:space="preserve"
        style="font-size:10.6667px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-       x="82.130844"
-       y="249.28972"
+       x="527.34363"
+       y="257.03442"
        id="text33158"><tspan
          sodipodi:role="line"
          id="tspan33156"
-         x="82.130844"
-         y="249.28972"
+         x="527.34363"
+         y="257.03442"
          style="font-size:10.6667px;fill:#008000">Earth system models</tspan></text>
     <text
        xml:space="preserve"
@@ -934,40 +1002,71 @@
     <text
        xml:space="preserve"
        style="font-size:10.6667px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#808000"
-       x="106.91589"
-       y="158.03738"
+       x="196.93718"
+       y="225.05865"
        id="text41272"><tspan
          sodipodi:role="line"
          id="tspan41270"
-         x="106.91589"
-         y="158.03738">GWP and GTP</tspan></text>
+         x="196.93718"
+         y="225.05865">GWP and GTP</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.6667px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#800080"
-       x="477.5701"
-       y="271.86917"
+       x="479.5701"
+       y="275.86917"
        id="text44516"><tspan
          sodipodi:role="line"
          id="tspan44514"
-         x="477.5701"
-         y="271.86917">Regional</tspan><tspan
+         x="479.5701"
+         y="275.86917">Regional</tspan><tspan
          sodipodi:role="line"
-         x="477.5701"
-         y="285.20255"
+         x="479.5701"
+         y="289.20255"
          id="tspan47770">emulators</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.6667px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ff6600"
-       x="468.13086"
-       y="354.01871"
+       x="470.13086"
+       y="342.01871"
        id="text49730"><tspan
          sodipodi:role="line"
          id="tspan49728"
-         x="468.13086"
-         y="354.01871">Impact</tspan><tspan
+         x="470.13086"
+         y="342.01871">Impact</tspan><tspan
          sodipodi:role="line"
-         x="468.13086"
-         y="367.35208"
+         x="470.13086"
+         y="355.35208"
          id="tspan51526">models</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#008000"
+       x="132.4045"
+       y="282.12936"
+       id="text12475"><tspan
+         sodipodi:role="line"
+         id="tspan12473"
+         x="132.4045"
+         y="282.12936">Some Earth system</tspan><tspan
+         sodipodi:role="line"
+         x="132.4045"
+         y="295.46274"
+         id="tspan13357">models can run</tspan><tspan
+         sodipodi:role="line"
+         x="132.4045"
+         y="308.79611"
+         id="tspan13359">with CO<tspan
+   style="font-size:65%;baseline-shift:sub;fill:#008000"
+   id="tspan15643">2</tspan> and CH<tspan
+   style="font-size:65%;baseline-shift:sub;fill:#008000"
+   id="tspan17003">4</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="132.4045"
+         y="322.12949"
+         id="tspan13361">emissions</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend64739855)"
+       d="M 129.79239,269.99928 C 120,260 130,250 140,240"
+       id="path18456"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
