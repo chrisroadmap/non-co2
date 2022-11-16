@@ -13,7 +13,7 @@
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="fig2.svg"
-   inkscape:export-filename="C:\Users\mencsm\git\non-co2\plots\fig2.png"
+   inkscape:export-filename="C:\Users\mencsm\git\chrisroadmap\non-co2\plots\fig2.png"
    inkscape:export-xdpi="299.95789"
    inkscape:export-ydpi="299.95789">
   <defs
@@ -687,6 +687,32 @@
          style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt;marker-start:none"
          transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend64739855"
+       orient="auto"
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="Arrow1Mend64739855-1-3">
+      <path
+         id="path20338-7-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend656899147499"
+       orient="auto"
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="Arrow1Mend656899147499-86">
+      <path
+         id="path66542-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -695,19 +721,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1756216"
-     inkscape:cx="353.09592"
-     inkscape:cy="205.14391"
+     inkscape:zoom="0.96102398"
+     inkscape:cx="487.26508"
+     inkscape:cy="165.17091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid2818" />
@@ -720,6 +747,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1044,7 +1072,7 @@
        inkscape:connection-end="#rect2816-3-4" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend656899147499)"
-       d="M 435.26634,165.30463 C 480,165 485,165 489.73366,144.69537"
+       d="m 446.07685,182.48963 c 26.71055,-4.15465 33.7503,-17.34732 43.5166,-36.72973"
        id="path28573"
        sodipodi:nodetypes="cc" />
     <path
@@ -1081,70 +1109,72 @@
        inkscape:connection-end="#rect2816" />
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-       x="532.4104"
+       style="font-size:13.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+       x="506.4104"
        y="59.058647"
        id="text33158"><tspan
          sodipodi:role="line"
          id="tspan33156"
-         x="532.4104"
+         x="506.4104"
          y="59.058647"
-         style="font-size:10px;fill:#008000">Earth System models</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#008000">Earth System models</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#0000ff"
-       x="582.42993"
+       style="font-size:13.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#0000ff"
+       x="564.42993"
        y="88.598129"
        id="text38688"><tspan
          sodipodi:role="line"
          id="tspan38686"
-         x="582.42993"
+         x="564.42993"
          y="88.598129"
-         style="font-size:10px">Emulators</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Emulators</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#808000"
-       x="258.93719"
+       style="font-size:13.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#808000"
+       x="102.93719"
        y="59.058647"
        id="text41272"><tspan
          sodipodi:role="line"
          id="tspan41270"
-         x="258.93719"
+         x="102.93719"
          y="59.058647"
-         style="font-size:10px">Emissions metrics, including GWP &amp; GTP</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">CO<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65%;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';baseline-shift:sub"
+   id="tspan1623">2</tspan>-equivalence metrics, including GWP &amp; GTP</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#800080"
+       style="font-size:13.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#800080"
        x="480.38245"
-       y="269.53375"
+       y="265.53375"
        id="text44516"><tspan
          sodipodi:role="line"
          id="tspan44514"
          x="480.38245"
-         y="269.53375"
-         style="font-size:10px">Regional</tspan><tspan
+         y="265.53375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Regional</tspan><tspan
          sodipodi:role="line"
          x="480.38245"
-         y="282.03375"
+         y="282.20038"
          id="tspan47770"
-         style="font-size:10px">emulators</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">emulators</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ff6600"
-       x="460.13086"
-       y="342.01871"
+       style="font-size:13.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ff6600"
+       x="462.13086"
+       y="340.01871"
        id="text49730"><tspan
          sodipodi:role="line"
          id="tspan49728"
-         x="460.13086"
-         y="342.01871"
+         x="462.13086"
+         y="340.01871"
          dy="0"
-         style="font-size:10px">Impact</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Impact</tspan><tspan
          sodipodi:role="line"
-         x="460.13086"
-         y="354.51871"
+         x="462.13086"
+         y="356.68533"
          id="tspan51526"
-         style="font-size:10px">models</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">models</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#008000"
@@ -1179,11 +1209,6 @@
        style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend64739855)"
        d="M 129.79239,269.99928 C 120,260 130,250 140,240"
        id="path18456"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend656899147499-8)"
-       d="M 304.46732,165.30448 C 259.73366,164.99985 254.73366,164.99985 250,144.69522"
-       id="path28573-7"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
@@ -1224,23 +1249,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="256.44641"
-       y="153.15587"
+       x="264.44641"
+       y="159.36302"
        id="text6082"><tspan
          sodipodi:role="line"
          id="tspan6080"
-         x="256.44641"
-         y="153.15587">Feedbacks</tspan></text>
+         x="264.44641"
+         y="159.36302">Feedbacks</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="435.76379"
-       y="153.36302"
+       x="427.76379"
+       y="159.36302"
        id="text6082-4"><tspan
          sodipodi:role="line"
          id="tspan6080-7"
-         x="435.76379"
-         y="153.36302">Feedbacks</tspan></text>
+         x="427.76379"
+         y="159.36302">Feedbacks</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
        d="m 295,345 c -6.66567,0 -13.33233,0 -16.66616,9.16735 C 275,363.3347 275,381.66767 278.3339,390.83383 281.6678,400 288.33433,400 295,400"
@@ -1286,5 +1311,10 @@
         </g>
       </g>
     </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend656899147499-86)"
+       d="m 294.00337,182.48963 c -26.71055,-4.15465 -33.7503,-17.34732 -43.5166,-36.72973"
+       id="path28573-2"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
