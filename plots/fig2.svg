@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="570"
    height="400"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="fig2.svg"
    inkscape:export-filename="/Users/chris/git/chrisroadmap/non-co2/plots/fig2.png"
    inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -738,17 +738,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96102398"
+     inkscape:zoom="1.4040232"
      inkscape:cx="258.05808"
-     inkscape:cy="303.84257"
+     inkscape:cy="104.7692"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1312"
-     inkscape:window-height="766"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      inkscape:document-rotation="0"
      showguides="true">
@@ -1153,7 +1153,7 @@
          y="14.058647"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">CO<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65%;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';baseline-shift:sub"
-   id="tspan1623">2</tspan>-equivalence metrics, including GWP &amp; GTP</tspan></text>
+   id="tspan1623">2</tspan> equivalence metrics, including GWP &amp; GTP</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#800080"
