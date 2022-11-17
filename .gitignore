@@ -3,7 +3,6 @@
 Thumbs.db
 
 # plots created by code
-plots/*.png
 plots/*.pdf
 
 # Byte-compiled / optimized / DLL files
